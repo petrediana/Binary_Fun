@@ -1,0 +1,4 @@
+
+Identifier Name          Occupation Salary
+20         John Something Manager 2000
+30         Ion Something  Engineer 1800

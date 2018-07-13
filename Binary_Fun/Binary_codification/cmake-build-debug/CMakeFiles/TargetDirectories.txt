@@ -1,0 +1,3 @@
+C:/Users/Peanutt/Desktop/CLion/Binary_codification/cmake-build-debug/CMakeFiles/Binary_codification.dir
+C:/Users/Peanutt/Desktop/CLion/Binary_codification/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Peanutt/Desktop/CLion/Binary_codification/cmake-build-debug/CMakeFiles/rebuild_cache.dir
